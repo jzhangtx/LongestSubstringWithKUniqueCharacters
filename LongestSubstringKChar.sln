@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestSubstringKChar", "LongestSubstringKChar\LongestSubstringKChar.vcxproj", "{F8795DEA-DA2B-4144-9353-477E787E5C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8795DEA-DA2B-4144-9353-477E787E5C0D}.Debug|x64.ActiveCfg = Debug|x64
+		{F8795DEA-DA2B-4144-9353-477E787E5C0D}.Debug|x64.Build.0 = Debug|x64
+		{F8795DEA-DA2B-4144-9353-477E787E5C0D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8795DEA-DA2B-4144-9353-477E787E5C0D}.Debug|x86.Build.0 = Debug|Win32
+		{F8795DEA-DA2B-4144-9353-477E787E5C0D}.Release|x64.ActiveCfg = Release|x64
+		{F8795DEA-DA2B-4144-9353-477E787E5C0D}.Release|x64.Build.0 = Release|x64
+		{F8795DEA-DA2B-4144-9353-477E787E5C0D}.Release|x86.ActiveCfg = Release|Win32
+		{F8795DEA-DA2B-4144-9353-477E787E5C0D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F29EFB64-0649-4495-851D-F42050123E24}
+	EndGlobalSection
+EndGlobal
